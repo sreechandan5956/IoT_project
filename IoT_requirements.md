@@ -1,3 +1,6 @@
+# Implementing Edge Computing in a Smart City Traffic Light System
+
+
 Here’s a detailed description of the hardware components you’ve chosen for your project, explaining their functionality and necessity:
 
 ---
